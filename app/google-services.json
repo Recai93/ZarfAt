@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_id": "minemessage-1207",
+    "project_number": "415025184397",
+    "name": "MineMessage"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415025184397:android:10ad2120d7004c4b",
+        "client_id": "android:com.udacity.firebase.shoppinglistplusplus",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.udacity.firebase.shoppinglistplusplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415025184397-3jvvp3n3hupt69etpq3d5rk7cjkn8ouj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.udacity.firebase.shoppinglistplusplus",
+            "certificate_hash": "8AA2DFD4CE516275D5E36AFAE464ACED9A724F81"
+          }
+        },
+        {
+          "client_id": "415025184397-1hk2523uo7rdpjnbuf375lfqdhm2fume.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
